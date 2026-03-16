@@ -20,7 +20,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Swayam Sagarkar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/swayam-sagarkar-612612321) 
 
 
 <img align="right" width="420" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
