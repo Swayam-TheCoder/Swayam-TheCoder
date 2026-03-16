@@ -6,7 +6,7 @@
 🧠 Interested in AI integration, scalable systems, and real-world problem solving
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&pause=900&color=38B2AC&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Tech+Lover+%26+Problem+Solver;Building+Cool+Stuff+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&pause=900&color=38B2AC&center=true&vCenter=true&width=900&lines=Web+Developer;MERN+Stack+Enthusiast;CODER;Tech+Lover+%26+Problem+Solver;Building+Cool+Stuff;Continuous+Learner" />
 </p>
 
 <h3 align="center">
